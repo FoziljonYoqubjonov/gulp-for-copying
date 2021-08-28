@@ -3,6 +3,7 @@ DC_Store
 .LSOverride
 .vs
 
+package-lock.json
 *.log
 node_modules/
 app/css/
